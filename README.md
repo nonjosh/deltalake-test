@@ -15,3 +15,4 @@ docker run --rm -p 8888:8888 -e JUPYTER_ENABLE_LAB=yes -v "${PWD}":/home/jovyan/
 - [https://www.datamechanics.co/blog-post/spark-and-docker-your-spark-development-cycle-just-got-ten-times-faster]
 - [https://medium.com/@suci/running-pyspark-on-jupyter-notebook-with-docker-602b18ac4494]
 - [https://spark.apache.org/docs/latest/running-on-kubernetes.html]
+- [https://www.jitsejan.com/setting-up-spark-with-minio-as-object-storage]
